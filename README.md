@@ -1,2 +1,3 @@
 # mesh-utils
-stupidly simple util for r/w binary mesh
+Util for opearting on mesh
+
